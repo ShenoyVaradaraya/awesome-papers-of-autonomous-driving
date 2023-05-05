@@ -1,6 +1,10 @@
 # awesome-papers-of-autonomous-driving
+![Alt Text](https://static01.nyt.com/images/2017/05/26/business/26wheels-top/26wheels-top-superJumbo.gif)
+![Alt Text](https://j.gifs.com/rR66g2.gif)
 
 # Motion Planning 
+![Alt Text](https://developer-blogs.nvidia.com/wp-content/uploads/2020/01/auto-social-drive-labs-localization-5-seconds.gif)
+
 1) <a href="http://ai.stanford.edu/users/nilsson/OnlinePubs-Nils/PublishedPapers/astar.pdf" target="_blank">A Formal Basis for the Heusristic Determination of Minimum Cost Paths (A* algorithm) </a> 
 2) <a href="http://idm-lab.org/bib/abstracts/papers/aaai02b.pdf" target="_blank">D* Lite</a>
 3) <a href="https://www.ri.cmu.edu/pub_files/pub3/stentz_anthony__tony__1994_2/stentz_anthony__tony__1994_2.pdf" target="_blank">The D* algorithm for Real-Time Planning of Optimal Traverses</a>
@@ -33,27 +37,28 @@ Unstructured Environments </a>
 29) <a href="https://www.cs.cmu.edu/~maxim/files/rstar_aaai08.pdf" target="_blank">R* Search</a>
 30) <a href="https://www.cs.cmu.edu/~maxim/files/dlite_tro05.pdf" target="_blank">Improved Fast Replanning for Robot Navigation in Unknown Terrain</a>
 
-# Control 
+# Control <img src=https://user-images.githubusercontent.com/45606539/119007993-a6800d00-b989-11eb-9bbd-1009e790448a.gif width=100 height=50>
 1) <a href="https://apps.dtic.mil/sti/pdfs/ADA282852.pdf" target="_blank">An Intelligent Predictive Controller for Autonomous Vehicles</a>
 2) <a href="https://www.mdpi.com/1424-8220/20/14/4062" target="_blank">A Waypoint Tracking Controller for Autonomous
 Road Vehicles Using ROS Framework</a>
 3) <a href="https://people.eng.unimelb.edu.au/alirezam/PDF/ICARCV2016_MPMC.pdf" target="_blank">Model Predictive Motion Control of Autonomous
 Forklift Vehicles with Dynamics Balance Constraint</a>
 
-# Multi-Robot Systems 
+# Multi-Robot Systems <img src=https://homepages.laas.fr/afranchi/robotics/sites/default/myFiles/images/srg-3Dsim-1.gif width=100 height=50>
 1) <a href="https://www.tandfonline.com/doi/abs/10.1163/016918611X563283" target="_blank">Decentralized Traffic Control for Non-Holonomic Flexible Automated Guided Vehicles in Industrial Environments</a>
 2) <a href="https://ieeexplore.ieee.org/document/6646110" target="_blank">Towards Decentralized Coordination of Multi Robot Systems in Industrial Environments: a Hierarchical Traffic Control Strategy</a>
 3) <a href="http://www.orensalzman.com/docs/AAMAS20.pdf" target="_blank">Research Challenges and Opportunities in Multi-Agent Path Finding and Multi-Agent Pickup and Delivery Problems</a>
 
-# Perception
+# Perception <img src=https://pratt.duke.edu/sites/pratt.duke.edu/files/frustum.gif width=100 height=50>
 1) <a href="https://arxiv.org/pdf/1612.00593.pdf" target="_blank">PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation</a>
 2) <a href="https://inria.hal.science/hal-02557329/document" target="_blank">Detection and Tracking of Pallets using a Laser Rangefinder and Machine Learning Techniques</a>
 3) <a href="http://proceedings.mlr.press/v87/shan18a/shan18a.pdf" target="_blank">Bayesian Generalized Kernel Inference for Terrain Traversability Mapping</a>
 
-# Ethics
+# Ethics <img src=https://cdn.techinasia.com/wp-content/uploads/2021/06/1624011493_court-law.gif width=100 height=50>
 1) <a href="https://typeset.io/pdf/autonomous-driving-technical-legal-and-social-aspects-488md5hik9.pdf" target="_blank">Autonomous Driving Technical, Legal and Social Aspects </a>
 
 # Past Projects 
+![Alt Text](https://iliad-project.eu/wp-content/uploads/2016/05/ILIAD-1-e1491249847738.jpg)
 1) <a href="https://iliad-project.eu/" target="_blank">ILIAD Project : Intra-Logistics with Integrated Automatic Deployment for safe and scalable fleets in shared spaces.  </a>
 
 
