@@ -48,6 +48,7 @@ Forklift Vehicles with Dynamics Balance Constraint</a>
 1) <a href="https://www.tandfonline.com/doi/abs/10.1163/016918611X563283" target="_blank">Decentralized Traffic Control for Non-Holonomic Flexible Automated Guided Vehicles in Industrial Environments</a>
 2) <a href="https://ieeexplore.ieee.org/document/6646110" target="_blank">Towards Decentralized Coordination of Multi Robot Systems in Industrial Environments: a Hierarchical Traffic Control Strategy</a>
 3) <a href="http://www.orensalzman.com/docs/AAMAS20.pdf" target="_blank">Research Challenges and Opportunities in Multi-Agent Path Finding and Multi-Agent Pickup and Delivery Problems</a>
+4) <a href="https://sci-hub.se/https://ieeexplore.ieee.org/document/6385660" target="_blank">Goal Assignment using Distance Cost in Multi-Robot Exploration</a>
 
 # Perception <img src=https://pratt.duke.edu/sites/pratt.duke.edu/files/frustum.gif width=100 height=50>
 1) <a href="https://arxiv.org/pdf/1612.00593.pdf" target="_blank">PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation</a>
