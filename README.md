@@ -8,7 +8,7 @@
 1) <a href="https://sci-hub.se/https://ieeexplore.ieee.org/document/4082128" target="_blank">A Formal Basis for the Heuristic Determination of Minimum Cost Paths (A* algorithm) </a> 
 2) <a href="http://idm-lab.org/bib/abstracts/papers/aaai02b.pdf" target="_blank">D* Lite</a>
 3) <a href="https://www.ri.cmu.edu/pub_files/pub3/stentz_anthony__tony__1994_2/stentz_anthony__tony__1994_2.pdf" target="_blank">The D* algorithm for Real-Time Planning of Optimal Traverses</a>
-4) <a href="https://ieeexplore.ieee.org/document/6728269" target="_blank">Path planning on grid maps with unknown goal poses</a>
+4) <a href="https://sci-hub.se/https://ieeexplore.ieee.org/document/6728269" target="_blank">Path planning on grid maps with unknown goal poses</a>
 5) <a href="https://ai.stanford.edu/~ddolgov/papers/dolgov_gpp_stair08.pdf" target="_blank">Practical Search Techniques in Path Planning for Autonomous Driving</a>
 6) <a href="https://www.researchgate.net/publication/337719881_Path_Planning_in_Unstructured_Environments_A_Real-time_Hybrid_A_Implementation_for_Fast_and_Deterministic_Path_Generation_for_the_KTH_Research_Concept_Vehicle" target="_blank">Path Planning in
 Unstructured Environments </a>
@@ -29,7 +29,7 @@ Unstructured Environments </a>
 21) <a href="https://arxiv.org/pdf/2005.12815.pdf" target="_blank">Local Motion Planner for Autonomous Navigation in Vineyards with a RGB-D Camera-Based Algorithm and Deep Learning Synergy</a>
 22) <a href="http://www.r-5.org/files/books/computers/algo-list/realtime-3d/Christer_Ericson-Real-Time_Collision_Detection-EN.pdf" target="_blank">Real-Time Collision Detection</a>
 23) <a href="https://www.cs.cmu.edu/~motionplanning/papers/sbp_papers/PRM/prmbasic_01.pdf" target="_blank">Probabilistic Roadmaps for Path Planning in High-Dimensional Configuration Spaces</a>
-24) <a href="https://ieeexplore.ieee.org/document/637936" target="_blank">Local Path Planning And Motion Control For Agv In Positioning</a>
+24) <a href="https://sci-hub.se/https://ieeexplore.ieee.org/document/637936" target="_blank">Local Path Planning And Motion Control For Agv In Positioning</a>
 25) <a href="https://www.researchgate.net/publication/3344960_Roadmap-Based_Path_Planning_-_Using_the_Voronoi_Diagram_for_a_Clearance-Based_Shortest_Path" target="_blank">Roadmap-Based Path Planning - Using the Voronoi Diagram for a Clearance-Based Shortest Path</a>
 26) <a href="http://ais.informatik.uni-freiburg.de/publications/papers/kollmitz15ecmr.pdf" target="_blank">Time Dependent Planning on a Layered Social Cost Map for Human-Aware Robot Navigation</a>
 27) <a href="https://www.ri.cmu.edu/pub_files/2012/5/ICRA12_xuwd_Final.pdf" target="_blank">A Real-Time Motion Planner with Trajectory Optimization for Autonomous Vehicles</a>
