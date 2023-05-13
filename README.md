@@ -5,7 +5,7 @@
 # Motion Planning 
 ![Alt Text](https://developer-blogs.nvidia.com/wp-content/uploads/2020/01/auto-social-drive-labs-localization-5-seconds.gif)
 
-1) <a href="http://ai.stanford.edu/users/nilsson/OnlinePubs-Nils/PublishedPapers/astar.pdf" target="_blank">A Formal Basis for the Heusristic Determination of Minimum Cost Paths (A* algorithm) </a> 
+1) <a href="https://sci-hub.se/https://ieeexplore.ieee.org/document/4082128" target="_blank">A Formal Basis for the Heuristic Determination of Minimum Cost Paths (A* algorithm) </a> 
 2) <a href="http://idm-lab.org/bib/abstracts/papers/aaai02b.pdf" target="_blank">D* Lite</a>
 3) <a href="https://www.ri.cmu.edu/pub_files/pub3/stentz_anthony__tony__1994_2/stentz_anthony__tony__1994_2.pdf" target="_blank">The D* algorithm for Real-Time Planning of Optimal Traverses</a>
 4) <a href="https://ieeexplore.ieee.org/document/6728269" target="_blank">Path planning on grid maps with unknown goal poses</a>
