@@ -54,6 +54,7 @@ Forklift Vehicles with Dynamics Balance Constraint</a>
 1) <a href="https://arxiv.org/pdf/1612.00593.pdf" target="_blank">PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation</a>
 2) <a href="https://inria.hal.science/hal-02557329/document" target="_blank">Detection and Tracking of Pallets using a Laser Rangefinder and Machine Learning Techniques</a>
 3) <a href="http://proceedings.mlr.press/v87/shan18a/shan18a.pdf" target="_blank">Bayesian Generalized Kernel Inference for Terrain Traversability Mapping</a>
+4) <a href="http://oru.diva-portal.org/smash/get/diva2:1070541/FULLTEXT01"> Enabling Flow Awareness for Mobile Robots in Partially Observable Environments </a>
 
 # Ethics <img src=https://cdn.techinasia.com/wp-content/uploads/2021/06/1624011493_court-law.gif width=100 height=50>
 1) <a href="https://typeset.io/pdf/autonomous-driving-technical-legal-and-social-aspects-488md5hik9.pdf" target="_blank">Autonomous Driving Technical, Legal and Social Aspects </a>
